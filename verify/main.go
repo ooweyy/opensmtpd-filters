@@ -15,7 +15,7 @@ import (
 	golog "log"
 
 	"blitiri.com.ar/go/spf"
-	"github.com/xeeqs/go-msgauth/dkim"
+	"github.com/ooweyy/go-msgauth/dkim"
 	"github.com/poolpOrg/OpenSMTPD-framework/filter"
 )
 
