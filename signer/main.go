@@ -15,8 +15,8 @@ import (
 
 	golog "log"
 
-	"github.com/dschp/go-msgauth/dkim"
 	"github.com/poolpOrg/OpenSMTPD-framework/filter"
+	"github.com/wuwejp/go-msgauth/dkim"
 )
 
 const LineFeed = "\r\n"
